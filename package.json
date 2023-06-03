@@ -1,6 +1,6 @@
 {
   "name": "rudh",
-  "version": "1.0.0",
+  "version": "3.0.1",
   "description": "The future of WhatsApp bots now with plugin support.",
   "main": "index.js",
   "scripts": {
