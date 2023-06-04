@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/rudhra-prh/rudh#readme",
   "dependencies": {
-    "@adiwajshing/baileys": "github:WhiskeySockets/Baileys",
+    "@whiskeysockets/baileys": "github:WhiskeySockets/Baileys",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@fantox01/lyrics-scraper": "^1.0.1",
     "@hapi/boom": "^10.0.1",
